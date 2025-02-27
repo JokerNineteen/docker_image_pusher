@@ -1,6 +1,7 @@
-elasticsearch
+#elasticsearch
 #支持私库
-docker.elastic.co/elasticsearch/elasticsearch:7.17.28-amd64
-elasticsearch/alist:7.17.28
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.28-amd64
+#elasticsearch/alist:7.17.28
 #支持指定架构
---platform=linux/amd64 elasticsearch/alist
+#--platform=linux/amd64 elasticsearch/alist
+elasticsearch:7.17.28
