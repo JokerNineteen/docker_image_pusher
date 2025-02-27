@@ -1,4 +1,4 @@
 elasticsearch
 #支持私库
-elasticsearch:7.17.28
+docker.elastic.co/elasticsearch:7.17.28
 #支持指定架构
